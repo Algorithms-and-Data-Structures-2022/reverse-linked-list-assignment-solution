@@ -1,13 +1,13 @@
-# C++ auto-graded assignment template
+# Assignment 06. Reverse Linked List
 
 [![Build Status](../../actions/workflows/classroom.yml/badge.svg)](../../actions/workflows/classroom.yml)
 ![Points bar](../../blob/badges/.github/badges/points-bar.svg)
 
 ## 1. Информация о студенте
 
-**Номер группы**: 00-000
+**Номер группы**: N/A
 
-**Фамилия и Имя**: Иванов Иван
+**Фамилия и Имя**: Сафин Рамиль
 
 ## 2. Описание задания
 
